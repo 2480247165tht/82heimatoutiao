@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import ElementUI from 'element-ui'
-import Component from './component' // 自定义组件
+import Component from './components' // 自定义组件
 import 'element-ui/lib/theme-chalk/index.css'
 import './style/index.less' // 引入初始化样式
 import axios from 'axios'
