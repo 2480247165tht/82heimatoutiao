@@ -1,5 +1,5 @@
 <template>
-  <div class="layout-aside">
+  <div class="layout-aside" style="overflow-x:hidden">
     <div class="title">
       <img src="../../assets/img/logo_admin.png" alt />
     </div>
@@ -60,7 +60,7 @@ export default {}
   .title {
     text-align: center;
     background-color: #2e2f32;
-    padding: 10px 0;
+    padding: 13px 0;
     img {
       height: 30px;
     }
